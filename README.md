@@ -1,11 +1,15 @@
 # SweeMan
 # Contact LINE ID: aramad_sanar
 
-This is a simple board game built as a mandatory task for Binus University New Assistant Recruitment 18-1, Pre-Training Phase, C subject. If code sharing is not allowed by the University rules, please let me know immediately through the contact given on the header of this readme!
+This is a simple board game built as a mandatory task for Binus University New Assistant Recruitment 18-1, Pre-Training Phase, C subject. If code sharing is not allowed as per the University rules, please let me know immediately through the contact given on the header of this readme!
 
 # Supported Platforms
 
 Only Windows as it is heavily reliant on SetConsoleCursorPosition(HANDLE, COORD) that is only available in Windows. If you have a substitute function for macOS/Linux/whatever please let me know through the contact given :)
+
+# How this works
+
+The algorithm contained/used here is pretty simple, it takes nothing more than for loops, string.h functions, ctype.h functions and very basic input output and file read/write. TL;DR, it's all primitives.
 
 # How to Compile
 
